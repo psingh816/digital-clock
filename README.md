@@ -1,2 +1,1 @@
-# digital-clock
-digital clock using html,css ,js
+# Simple Digital Clock with JavaScript
